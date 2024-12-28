@@ -1,3 +1,4 @@
 (fp_lib_table
-  (lib (name bga)(type KiCad)(uri ${KIPRJMOD}/bga.pretty)(options "")(descr ""))
+  (version 7)
+  (lib (name "bga")(type "KiCad")(uri "${KIPRJMOD}/bga.pretty")(options "")(descr ""))
 )

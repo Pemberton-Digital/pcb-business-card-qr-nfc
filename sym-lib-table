@@ -1,3 +1,4 @@
 (sym_lib_table
-  (lib (name business-card-rescue)(type Legacy)(uri "${KIPRJMOD}/business card-rescue.lib")(options "")(descr ""))
+  (version 7)
+  (lib (name "business-card-rescue")(type "Legacy")(uri "${KIPRJMOD}/business card-generic-rescue.lib")(options "")(descr ""))
 )
